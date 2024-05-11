@@ -3,9 +3,9 @@
 # Prerequisites
 Before beginning, ensure to put in the subsequent additives:
 
-*PHP
-*Apache server
-*MySQL
+- PHP
+- Apache server
+- MySQL
 
 # Installation Steps
 Download the Necessary Files: Acquire the documents required.
