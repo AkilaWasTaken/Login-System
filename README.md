@@ -12,7 +12,7 @@ Download the Necessary Files: Acquire the documents required.
 
 Launch the Webserver: Initiate your Apache server to serve the PHP files.
 
-Open setup page: In your web browser, go to localhost/setup.php, which should look like this ![preview](https://github.com/AkilaWasTaken/Login-System/assets/61984141/4333fbcd-6a20-4bc9-b239-6b73d619605f).
+Open setup page: In your web browser, go to localhost/setup.php, which should look like this. ![preview](https://github.com/AkilaWasTaken/Login-System/assets/61984141/4333fbcd-6a20-4bc9-b239-6b73d619605f)
 
 Execute Setup Instructions: The setup.Php record will lead you to setup everything needed.
 
